@@ -1,4 +1,4 @@
-<h1> Daftar Mahasiswa </h1>
+<h1> Daftar Mahasiswa </h1> 
 
 <?php 
 

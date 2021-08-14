@@ -8,7 +8,7 @@
 
     $query=mysqli_query($con, "SELECT * FROM tb_mahasiswa");
     while($data=mysqli_fetch_array($query)){
-        echo $data['npm']."<br>";
+        echo $data['npm']." ";
         echo $data['nama']."<br>";
     }
 
